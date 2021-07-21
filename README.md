@@ -39,7 +39,6 @@
 - data.json 데이터의 items를 동적으로 받아오기 위하여 Browser API인 fetch()의 사용 방법을 학습했습니다.
 - fetch()에서 데이터를 정상적으로 받아오게 되면 response라는 object를 리턴하는 것을 배웠습니다.
 - response의 json API를 이용해서 response의 body를 JSON의 object로 변환하여 JSON 형태로 출력해보았습니다.
-
 ```
 
 <p align="center"><em>💛 Handling Events </em></p>
