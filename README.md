@@ -9,7 +9,7 @@
 <h2 align="center"><em>Execution🌎</em></h2>
 <p align="center"><em><a href="https://shoppingmall-clone-coding.netlify.app/">Let's start!</a></em><br/>
 <br/><em>
-- 본 프로젝트는 💻과 📱에 모두 최적화 되어있습니다.<br>
+- 본 프로젝트는 💻에 최적화 되어있습니다.<br>
 - 해당 프로젝트는 netlify로 배포되었습니다.</em></p>
 <br/>
 <h2 align="center"><em>Description project 📝</em></h2>
