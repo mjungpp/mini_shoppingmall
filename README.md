@@ -24,7 +24,7 @@
 
 <h2 align="center"><em>ScreenShots📸</em></h2>
 <p align="center">
-<img src="#">
+<img src="https://user-images.githubusercontent.com/64456391/126485370-377318cc-da7c-49d1-a125-7d9823503df8.jpg">
 </p>
 
 <h2 align="center"><em>Learned 👩‍🎓</em></h2>
