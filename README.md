@@ -57,6 +57,21 @@
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp<br/>
 </p></br>
 
+<h2 align="center"><em>Structure Tree🌳</em></h2>
+
+```
+mini_shoppingmall   
+├─ data             
+│  └─ data.json     
+├─ img              
+├─ src              
+│  └─ main.js       
+├─ index.html       
+├─ README.md        
+└─ style.css        
+  
+```
+
 <h2 align="center"><em>Credit🙏</em></h2>
 <p align="center"><em>💜 Dream Coding Academy<br><strong>ShoppingMall Mini-game Clone Coding</strong></em></p>
 <p align="center"><em><strong><a href="https://academy.dream-coding.com/courses/mini-shopping">View lecture</strong></em></p>
