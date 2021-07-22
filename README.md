@@ -69,8 +69,8 @@ mini_shoppingmall
 ├─ index.html       
 ├─ README.md        
 └─ style.css        
-  
 ```
+</br>
 
 <h2 align="center"><em>Credit🙏</em></h2>
 <p align="center"><em>💜 Dream Coding Academy<br><strong>ShoppingMall Mini-game Clone Coding</strong></em></p>
